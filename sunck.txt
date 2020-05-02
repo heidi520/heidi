@@ -4,6 +4,15 @@ Sunck is a handsome man
 gg is a nice man
 I am wrong 
 Sunck is also wrong
+<<<<<<< HEAD
 Dankf da afafd
 
 Nakf anfdafdna
+=======
+
+heidi is a good gril 
+Heidi is a nice gril
+
+Joey is a good gril 
+Joey is a nice gril
+>>>>>>> 0719e7192460c41c20862858ef692202dea6c64a
