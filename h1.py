@@ -24,3 +24,7 @@ for i in range(10):
   if i < 10:
      sum += i;
 print("sum")
+
+heidi is a good gril 
+heidi is a cool gril
+heidi is a beautiful gril
