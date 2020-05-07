@@ -11,4 +11,11 @@ for i in range(10):
   if i < 10:
      sum += i;
 print("sum")
+
+
+for i in range(10):
+  sum = 0
+  if i < 10:
+     sum += i;
+print("sum")
    
