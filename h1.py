@@ -28,3 +28,11 @@ print("sum")
 heidi is a good gril 
 heidi is a cool gril
 heidi is a beautiful gril
+
+rint("a")
+print("b")
+print("c")
+print("hello world")
+print("hello heidi")
+print("heidi is a good girl")
+print("heidi is a nice girl")
