@@ -12,3 +12,4 @@ print("heidi is a good girl")
 print("heidi is a nice girl")
 for i in range(5):
     print(i)
+git submodule add <url> Desktop/heidi

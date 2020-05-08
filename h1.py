@@ -1,30 +1,32 @@
-print("a")
-print("b")
-print("c")
-print("hello world")
-print("hello heidi")
-print("heidi is a good girl")
-print("heidi is a nice girl")
 
-for i in range(10):
-  sum = 0
-  if i < 10:
-     sum += i;
-print("sum")
+用户的浏览器（socket客户端）
+  3.客户端往服务端发消息
+  
+  6.客户端接收消息
+  7.关闭
 
 
-for i in range(10):
-  sum = 0
-  if i < 10:
-     sum += i;
-print("sum")
-   
-for i in range(10):
-  sum = 0
-  if i < 10:
-     sum += i;
-print("sum")
+JD的服务器（socket服务器）
+  1.启动，监听
+  2.等待客户端连接
+  
+  4.服务端收消息
+  5.服务端回消息
+  7.关闭
+  
+  
+  hahahha
+  
+用户的浏览器（socket客户端）
+  3.客户端往服务端发消息
+  
+  6.客户端接收消息
+  7.关闭
 
-heidi is a good gril 
-heidi is a cool gril
-heidi is a beautiful gril
+
+JD的服务器（socket服务器）
+  1.启动，监听
+  2.等待客户端连接
+  
+  4.服务端收消息
+  5.服务端回消
