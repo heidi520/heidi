@@ -23,6 +23,7 @@ JD的服务器（socket服务器）
   6.客户端接收消息
   7.关闭
 
+<<<<<<< HEAD
 
 JD的服务器（socket服务器）
   1.启动，监听
@@ -30,3 +31,16 @@ JD的服务器（socket服务器）
   
   4.服务端收消息
   5.服务端回消
+=======
+heidi is a good gril 
+heidi is a cool gril
+heidi is a beautiful gril
+
+rint("a")
+print("b")
+print("c")
+print("hello world")
+print("hello heidi")
+print("heidi is a good girl")
+print("heidi is a nice girl")
+>>>>>>> hh
